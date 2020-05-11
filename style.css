@@ -1,0 +1,12 @@
+img{
+  height: 300px;
+  margin-top: 40px;
+  float: left;
+  vertical-align: auto;
+}
+.download{
+  color: white;
+  float: right;
+  margin-top: 150px;
+  position: relative;
+}
